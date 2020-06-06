@@ -19,6 +19,7 @@ Clone this repository to your local machine.
 
 ```
 git clone git@github.com:leeroywking/madlib-cli.git
+python madlib-cli/madlib.py
 ```
 
 ### To run the program from VS Code:
@@ -44,4 +45,7 @@ Then select and open ```madlib.py```
 1.1 reviewed by Merry, added additional test cases 
 
 
+
+### Turn in PR
+[PR link](https://github.com/leeroywking/madlib-cli/pull/1)
 ------------------------------
